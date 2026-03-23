@@ -1,0 +1,56 @@
+MF Code,incept_date,schemecode,sdx_returns,sharpex_returns,sotinox_returns,betax_returns,alphax_returns,treynorx_returns,sdy_returns,sharpey_returns,sotinoy_returns,betay_returns,alphay_returns,treynory_returns,rank_sd,rank_sharpe,rank_sotino,rank_beta,rank_alpha,rank_treynor,index_name,s_name,avg_std_dev,avg_sharpe,avg_sotino,avg_beta,avg_alpha,avg_treyno,no_of_funds_total
+ICICI Pru Nifty Top 15 Equal Weight ETF,2025-06-26,49744,,-0.22,-0.29,1.0,-0.03,,,,,,,,,200,197,125,157,,Nifty Top 15 Equal Weight - TRI,ICICI Pru Nifty Top 15 Equal Weight ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Groww Nifty Next 50 ETF,2025-08-22,50133,,-0.22,-0.33,0.99,-0.04,,,,,,,,,201,201,27,190,,NIFTY NEXT 50 - TRI,Groww Nifty Next 50 ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Groww Nifty Next 50 Index Fund-Reg(G),2025-08-25,50134,,-0.25,-0.38,0.99,-0.1,,,,,,,,,198,197,38,151,,NIFTY NEXT 50 - TRI,Groww Nifty Next 50 Index Fund-Reg(G),14.23,-0.11,0.05,0.99,-0.08,-0.7,190
+Mirae Asset Nifty India Infrastructure & Logistics ETF,2026-02-12,50237,,-8.06,-1.85,0.97,-0.26,,,,,,,,,240,240,13,234,,Nifty India Infrastructure & Logistics Index - TRI,Mirae Asset Nifty India Infrastructure & Logistics ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Groww Nifty Chemicals ETF,2026-01-13,50140,,-0.84,-0.98,1.0,-0.05,,,,,,,,,227,231,37,194,,Nifty Chemicals - TRI,Groww Nifty Chemicals ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Mirae Asset Nifty 500 Healthcare ETF,2026-02-10,50604,,-0.36,-0.69,0.99,-0.03,,,,,,,,,211,218,18,170,,Nifty500 Healthcare Index - TRI,Mirae Asset Nifty 500 Healthcare ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+DSP Nifty Next 50 ETF,2026-01-05,50489,,-0.3,-0.46,1.0,-0.02,-165.77,,,,,,-0.66,,208,209,83,138,169,NIFTY NEXT 50 - TRI,DSP Nifty Next 50 ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Mirae Asset BSE Select IPO ETF FoF-Reg(G),2025-03-18,49499,,-0.12,-0.22,0.93,-1.08,-6.45,,,,,,-0.03,,69,69,62,95,62,BSE Select IPO Index - TRI,Mirae Asset BSE Select IPO ETF FoF-Reg(G),13.88,0.08,0.36,0.16,0.98,20.78,63
+Angel One Nifty Total Market Momentum Quality 50 ETF,2025-11-21,50396,,-0.5,-0.77,1.01,-0.09,,,,,,,,,216,220,223,217,,Nifty Total Market Momentum Quality 50 - TRI,Angel One Nifty Total Market Momentum Quality 50 ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+DSP Nifty Smallcap 250 ETF,2025-12-12,50483,,-0.91,-1.09,1.0,-0.02,,,,,,,,,231,234,110,133,,Nifty Smallcap 250 - TRI,DSP Nifty Smallcap 250 ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Groww Nifty 200 ETF FOF-Reg(G),2025-02-28,49642,,0.12,0.22,0.96,-0.02,-0.23,,,,,,0.0,,138,142,12,123,87,NIFTY 200 - TRI,Groww Nifty 200 ETF FOF-Reg(G),14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Kotak Nifty Midcap 150 ETF,2025-03-21,49318,,0.18,0.37,1.0,0.02,3.7,,,,,,0.01,,82,74,218,40,54,Nifty Midcap 150 - TRI,Kotak Nifty Midcap 150 ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Taurus Nifty 50 Index Fund-Reg(G),2010-06-19,8151,11.13,0.15,0.29,0.99,-0.11,-2.32,0.87,0.02,0.02,0.98,0.0,-0.01,2,89,90,20,166,138,NIFTY 50 - TRI,Taurus Nifty 50 Index Fund-Reg(G),14.23,-0.11,0.05,0.99,-0.08,-0.7,190
+Kotak Nifty 200 Momentum 30 ETF,2025-10-10,50098,,-0.51,-0.65,1.0,-0.05,,,,,,,,,217,217,192,202,,Nifty200 Momentum 30 - TRI,Kotak Nifty 200 Momentum 30 ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Mirae Asset BSE 200 Equal Weight ETF FoF-Reg(G),2025-03-18,49699,,0.1,0.2,0.95,0.32,1.08,,,,,,0.0,,65,66,64,34,45,BSE 200 Equal Weight - TRI,Mirae Asset BSE 200 Equal Weight ETF FoF-Reg(G),13.88,0.08,0.36,0.16,0.98,20.78,63
+Groww Nifty Midcap 150 ETF,2025-11-13,50136,,-0.64,-0.79,0.99,-0.02,,,,,,,,,221,221,24,141,,Nifty Midcap 150 - TRI,Groww Nifty Midcap 150 ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Motilal Oswal Nifty Alpha 50 ETF,2025-07-07,49969,,-0.42,-0.64,1.0,-0.08,,,,,,,,,213,216,196,213,,Nifty Alpha 50 - TRI,Motilal Oswal Nifty Alpha 50 ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Bandhan Conservative Hybrid Passive FOF-Reg(G),2010-02-11,8459,,0.25,0.53,1.01,0.04,5.59,0.21,0.07,0.11,0.67,0.01,0.02,,43,40,86,48,35,CRISIL Hybrid 85+15 - Conservative Index,Bandhan Conservative Hybrid Passive FOF-Reg(G),13.88,0.08,0.36,0.16,0.98,20.78,63
+UTI Nifty IT ETF,2024-01-25,48249,,-0.1,-0.16,1.0,-0.01,-20.89,1.26,0.01,0.01,0.8,0.0,-0.08,,187,187,103,97,174,NIFTY IT - TRI,UTI Nifty IT ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Angel One Silver ETF,2026-02-24,50669,,,,,,,,,,,,,,,,,,,Silver,Angel One Silver ETF,23.62,0.61,1.69,-1.85,4.3,37.63,34
+Motilal Oswal Nifty Services Sector ETF,2025-11-24,50368,,-0.91,-0.86,1.0,-0.05,,,,,,,,,232,226,49,199,,Nifty Services Sector - TRI,Motilal Oswal Nifty Services Sector ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Motilal Oswal BSE Select IPO ETF,2025-11-17,50477,,-1.37,-1.25,0.94,-2.69,,,,,,,,,236,236,10,240,,BSE Select IPO Index - TRI,Motilal Oswal BSE Select IPO ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Nippon India BSE Sensex Next 30 ETF,2025-06-10,49931,,-0.01,-0.03,0.7,0.58,,,,,,,,,174,174,3,16,,BSE Sensex Next 30 - TRI,Nippon India BSE Sensex Next 30 ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Groww Nifty 500 Low Volatility 50 ETF,2025-06-13,49742,,-0.09,-0.14,0.99,-0.05,,,,,,,,,185,184,20,206,,Nifty500 Low Volatility 50 - TRI,Groww Nifty 500 Low Volatility 50 ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Baroda BNP Paribas NIFTY Bank ETF,2024-06-18,48464,,0.02,0.03,1.0,0.0,4.86,,,,,,0.02,,160,160,52,61,34,NIFTY BANK - TRI,Baroda BNP Paribas NIFTY Bank ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+DSP MSCI India ETF,2025-11-25,50466,,-0.75,-0.84,0.99,0.39,,,,,,,,,225,224,17,17,,MSCI India,DSP MSCI India ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Nippon India Inv-Annual-I(G),2007-05-03,2599,,0.4,0.16,0.06,0.04,805.77,0.02,0.72,1.35,0.02,0.01,3.2,,5,68,1,47,1,CRISIL Short Term Bond Index,Nippon India Inv-Annual-I(G),0.9,0.29,0.28,0.39,0.05,32.04,75
+Motilal Oswal Nifty MNC ETF,2025-12-01,50369,,-0.08,-0.13,1.0,-0.06,,,,,,,,,183,183,47,207,,NIFTY MNC - TRI,Motilal Oswal Nifty MNC ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Motilal Oswal Nifty Next 50 ETF,2025-05-09,49855,,-0.07,-0.12,1.01,0.01,,,,,,,,,181,181,227,41,,NIFTY NEXT 50 - TRI,Motilal Oswal Nifty Next 50 ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Motilal Oswal BSE India Infrastructure ETF,2025-05-16,49857,,-0.2,-0.39,1.06,0.39,,,,,,,,,198,203,229,18,,BSE India Infrastructure Index - TRI,Motilal Oswal BSE India Infrastructure ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Kotak Nifty200 Quality 30 ETF,2025-07-14,49777,,-0.27,-0.4,1.0,-0.03,,,,,,,,,205,206,75,153,,NIFTY200 Quality 30 - TRI,Kotak Nifty200 Quality 30 ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Motilal Oswal Nifty PSE ETF,2025-06-02,49966,,0.0,0.0,0.99,-0.06,,,,,,,,,171,171,25,209,,NIFTY PSE - TRI,Motilal Oswal Nifty PSE ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Motilal Oswal Nifty India Manufacturing ETF,2025-05-23,49856,,0.12,0.23,0.99,-0.05,,,,,,,,,141,141,29,198,,Nifty India Manufacturing - TRI,Motilal Oswal Nifty India Manufacturing ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Bandhan BSE Sensex ETF,2016-10-07,34197,11.27,0.12,0.24,1.0,-0.18,-3.86,0.87,0.02,0.03,0.99,0.01,-0.02,18,139,138,68,232,155,BSE SENSEX - TRI,Bandhan BSE Sensex ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Bandhan CRISIL-IBX 10:90 Gilt+SDL Index - Dec 2029 Fund-Reg(G),2025-03-10,49630,,0.02,0.04,0.75,0.16,6.07,,,,,,0.02,,55,55,48,1,46,CRISIL-IBX 10:90 Gilt + SDL Index - Dec 2029,Bandhan CRISIL-IBX 10:90 Gilt+SDL Index - Dec 2029 Fund-Reg(G),1.4,0.22,0.31,0.52,0.04,16.15,60
+Baroda BNP Paribas ESG Best-in-class Strategy Fund-Reg(G),2026-03-05,43916,,,,,,,,,,,,,,,,,,,NIFTY100 ESG - TRI,Baroda BNP Paribas ESG Best-in-class Strategy Fund-Reg(G),13.66,-0.02,0.11,1.01,0.06,0.18,97
+Motilal Oswal Multi Factor Passive FoF-Reg(G),2026-03-12,49312,,,,,,,,,,,,,,,,,,,NIFTY 500 - TRI,Motilal Oswal Multi Factor Passive FoF-Reg(G),13.88,0.08,0.36,0.16,0.98,20.78,63
+null,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+null,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HDFC Income Plus Arbitrage Omni FOF-Reg(G),2026-03-12,50397,,,,,,,,,,,,,,,,,,,Nifty Short Duration Debt Index,HDFC Income Plus Arbitrage Omni FOF-Reg(G),13.88,0.08,0.36,0.16,0.98,20.78,63
+DynaSIF Equity Long-Short Fund-Reg(G),2026-02-25,75055,,,,,,,,,,,,,,,,,,,BSE 500 - TRI,DynaSIF Equity Long-Short Fund-Reg(G),7.58,-0.31,0.03,0.6,0.13,-0.9,34
+Angel One Silver ETF FOF-Reg(G),2026-03-02,50670,,,,,,,,,,,,,,,,,,,Silver,Angel One Silver ETF FOF-Reg(G),13.88,0.08,0.36,0.16,0.98,20.78,63
+Groww BSE Hospitals ETF,2026-03-02,50486,,,,,,,,,,,,,,,,,,,BSE Hospitals Index - TRI,Groww BSE Hospitals ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Groww BSE Hospitals ETF FOF-Reg(G),2026-03-05,50487,,,,,,,,,,,,,,,,,,,BSE Hospitals Index - TRI,Groww BSE Hospitals ETF FOF-Reg(G),13.88,0.08,0.36,0.16,0.98,20.78,63
+Edelweiss Gold ETF FoF-Reg(G),2026-03-04,50498,,,,,,,,,,,,,,,,,,,Gold-India,Edelweiss Gold ETF FoF-Reg(G),13.88,0.08,0.36,0.16,0.98,20.78,63
+Old Bridge Flexi Cap Fund-Reg(G),2026-03-02,50499,,,,,,,,,,,,,,,,,,,BSE 500 - TRI,Old Bridge Flexi Cap Fund-Reg(G),13.13,0.16,0.32,0.98,0.07,-1.7,48
+ITI Business Cycle Fund-Reg(G),2026-03-09,50616,,,,,,,,,,,,,,,,,,,NIFTY 500 - TRI,ITI Business Cycle Fund-Reg(G),13.66,-0.02,0.11,1.01,0.06,0.18,97
+Abakkus Small Cap Fund-Reg(G),2026-03-17,50666,,,,,,,,,,,,,,,,,,,Nifty Smallcap 250 - TRI,Abakkus Small Cap Fund-Reg(G),16.96,0.04,0.17,0.91,0.15,-1.09,30
+Axis FMP-130-92D-Reg(G),2026-03-12,50784,,,,,,,,,,,,,,,,,,,CRISIL Ultra Short Term Debt Index,Axis FMP-130-92D-Reg(G),0.9,0.29,0.28,0.39,0.05,32.04,75
+DSP BSE Top 10 Banks ETF,2026-03-06,50745,,,,,,,,,,,,,,,,,,,BSE Top 10 Banks Index - TRI,DSP BSE Top 10 Banks ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Nippon India CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Reg(G),2026-03-12,50741,,,,,,,,,,,,,,,,,,,CRISIL-IBX Financial Services 3 to 6 Months Debt Index,Nippon India CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Reg(G),0.35,0.05,0.02,0.65,0.0,59.34,29
+Nippon India CRISIL-IBX Financial Services 9-12 Months Debt Index Fund-Reg(G),2026-03-02,50727,,,,,,,,,,,,,,,,,,,CRISIL-IBX Financial Services 9-12 Months Debt Index,Nippon India CRISIL-IBX Financial Services 9-12 Months Debt Index Fund-Reg(G),0.52,0.08,0.03,0.75,0.01,25.92,23
+LIC MF Technology Fund-Reg(G),2026-03-13,50695,,,,,,,,,,,,,,,,,,,BSE TECk Index - TRI,LIC MF Technology Fund-Reg(G),18.52,-0.01,-0.01,1.03,-0.06,-13.41,12
+SBI Nifty Midcap 150 Momentum 50 ETF,2026-03-02,50693,,,,,,,,,,,,,,,,,,,Nifty Midcap150 Momentum 50 - TRI,SBI Nifty Midcap 150 Momentum 50 ETF,14.68,-0.04,0.13,1.0,0.08,-0.44,183
+Capitalmind Arbitrage Fund-Reg(G),2026-03-16,50667,,,,,,,,,,,,,,,,,,,Nifty 50 Arbitrage - TRI,Capitalmind Arbitrage Fund-Reg(G),0.43,-0.05,-0.04,0.33,-0.03,45.97,30
